@@ -1,6 +1,7 @@
 ---
 layout: base.html
-title: Home
+title: lynett.eth
+description: praxis intelligence division lead, ethereum maximalist, agorist libertarian. 16 years old. trans female 🏳️‍⚧️
 permalink: /
 ---
 
@@ -12,9 +13,10 @@ i'm a [praxian citizen](https://praxisnation.com) (ave urbs nostra), currently l
 
 ideologically and philosophically, i'm a deontological libertarian anarchist. i believe in the use of ethereum and decentralised technologies for liberation
 
-trans female 🏳️‍⚧️
+trans female 🏳️‍⚧️ 16 years old
 
 i can be contacted via the following means:
+
 - discord (preferred): alt.box
 - matrix: [@0xlynett:matrix.org](https://matrix.to/#/@0xlynett:matrix.org)
 - twitter: [@lynettdoteth](https://x.com/lynettdoteth)
