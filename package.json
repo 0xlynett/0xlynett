@@ -1,0 +1,14 @@
+{
+  "name": "lyns-website",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@tailwindcss/cli": "^4.1.11",
+    "@tailwindcss/typography": "^0.5.16",
+    "concurrently": "^9.2.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "scripts": {
+    "start": "concurrently 'eleventy --serve' 'bunx @tailwindcss/cli -i style.css -o style.out.css --watch'"
+  }
+}
