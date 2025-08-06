@@ -57,5 +57,4 @@ my blog is called [[object Object]](https://paragraph.xyz/@0xlynett) and it's on
 - [P-ID website](https://prax.im)
 - [supreme-leader](https://github.com/ArvensisSystems/supreme-leader), an automated Kim Jong-Un test for Discord servers
 - [eth-template](https://github.com/ArvensisSystems/eth-template), a basic no-nonsense template for Ethereum full-stack development
-- [this website](https://github.com/0xlynett)
-  - self-hosted with coolify on my own server
+- [the website](https://github.com/0xlynett)
