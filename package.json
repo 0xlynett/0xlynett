@@ -9,6 +9,7 @@
     "tailwindcss": "^4.1.11"
   },
   "scripts": {
-    "start": "concurrently 'eleventy --serve' 'bunx @tailwindcss/cli -i style.css -o style.out.css --watch'"
+    "start": "concurrently 'eleventy --serve' 'bunx @tailwindcss/cli -i style.css -o style.out.css --watch'",
+    "build": "bunx @tailwindcss/cli -i style.css -o style.out.css && eleventy"
   }
 }
